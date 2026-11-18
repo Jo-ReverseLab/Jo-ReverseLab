@@ -7,7 +7,7 @@ I take technology apart, try out new tools and AI, and build small open-source a
 
 | | |
 |---|---|
-| **[MediaTidy](https://github.com/Ben-ReverseLab/media-tidy-mac)** | macOS app for photographers: back up, find duplicates and sort photos and videos by date, camera and lens. Safe by default – every run starts as a dry run and can be undone. [Download](https://github.com/Ben-ReverseLab/media-tidy-mac/releases/latest) |
+| **[MediaTidy](https://github.com/Jo-ReverseLab/media-tidy-mac)** | macOS app for photographers: back up, find duplicates and sort photos and videos by date, camera and lens. Safe by default – every run starts as a dry run and can be undone. [Download](https://github.com/Jo-ReverseLab/media-tidy-mac/releases/latest) |
 
 ### Videos
 
